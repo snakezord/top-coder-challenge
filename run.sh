@@ -3,5 +3,5 @@
 # Black Box Challenge - Reimbursement Calculator
 # Usage: ./run.sh <trip_duration_days> <miles_traveled> <total_receipts_amount>
 
-# Call our BEST PERFORMING system - Perfect Strike V1.0!
-node perfect_strike.js "$1" "$2" "$3" 
+# Call our EXTREME PRECISION ANTI-OVERFITTING SYSTEM!
+node extreme_precision_antioverfit.js "$1" "$2" "$3" 
